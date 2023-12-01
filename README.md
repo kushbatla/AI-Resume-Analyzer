@@ -1,4 +1,3 @@
-<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
 
 
@@ -7,10 +6,10 @@
 ## About the Project 🥱
 <div align="center">
 
-    <p align="justify"> 
+ 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
-    </p>
+   
 </div>
 
 ## Scope 😲
